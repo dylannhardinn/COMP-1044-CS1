@@ -2,8 +2,8 @@
 using namespace std;  
 
 int main (){
-cout <<         "||" "\n";
-cout <<   "______||"  "\n";
+cout <<  "      ||" "\n";
+cout <<  "______||"  "\n";
 cout <<  "/ ____ o|" "\n";
 cout << "| / ;; \\|"  "\n";
 cout << "| ______ |"   "\n";
