@@ -53,7 +53,7 @@ int main() {
 */
 void heading() {
     cout << "-------------------------------------\n";
-    cout << "        Your Name - Program 5\n";
+    cout << "        Dylan Hardin - Program 5\n";
     cout << "        Array Manipulation Program\n";
     cout << "-------------------------------------\n\n";
 }
